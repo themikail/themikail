@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-<!--
-**themikail/themikail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+function theMikail() {
+	const mikail = {
+		name: 'Mikail Gökce',
+		location: 'Germany',
+		role: 'Web Developer',
+		languages: [, 'Python', 'JavaScript', 'TypeScript', 'React', 'React-Native', 'HTML', 'CSS', 'Firebase'],
+		what_I_do: ['Web Programming', 'Mobile Programming', 'Illustrating'],
+	};
+}
+
 
 Here are some ideas to get you started:
 
