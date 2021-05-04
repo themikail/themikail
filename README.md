@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mikail Gökce</h1>
+<h1 align="center">Hi 👋, I'm Mikail</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
 - 🔭What I do **Web Programming, Mobile Programming**
 
 - 👯 Languages **Python, JavaScript, TypeScript, React, React-Native, HTML, CSS**
 
-- 📫 How to reach me **mikail.goekce@gmail.com**
+- 📫 How to reach me **mika@themikail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
