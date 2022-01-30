@@ -3,7 +3,7 @@
 
 - 🔭What I do **Web Programming, Mobile Programming**
 
-- 👯 Languages **Python, JavaScript, TypeScript, React, React-Native, HTML, CSS**
+- 👯 Languages **Python, JavaScript, TypeScript, HTML, CSS**
 
 - 📫 How to reach me **mika@themikail.com**
 
