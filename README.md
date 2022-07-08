@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mikail</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭What I do **Web Programming, Mobile Programming**
+- 🔭What I do **Web Programming, Video Edit & Animations with Adobe After Effects**
 
-- 👯 Languages **Python, JavaScript, TypeScript, HTML, CSS**
+- 👯 Languages **Python, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **mika@themikail.com**
 
