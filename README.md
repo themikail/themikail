@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Full-Stack developer from Germany<br><br>    🔭What I do; Web Programming, Video Edit & Animations with Adobe After Effects<br><br>    👯 Languages Python, JavaScript, HTML, CSS<br><br>    📫 How to reach me mika@themikail.com<br>
+A passionate Full-Stack developer from Germany<br><br>    🔭What I do; Web Programming, Video Edit & Animations with Adobe After Effects<br><br>    👯 Languages Python, JavaScript, HTML, CSS<br><br>    📫 How to reach me hello@mikailgokce.com<br>
 
 
 ## 🌐 Socials:
